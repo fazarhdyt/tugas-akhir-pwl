@@ -26,7 +26,7 @@
       </div>
     <!-- </section> -->
 
-    <div class="container">
+    <div class="container mb-5">
           <div class="row mb-4 mt-4">
               <div class="col text-center">
                   <h2>Education</h2>
@@ -35,66 +35,10 @@
 
           <div class="row justify-content-center">
               <div class="col-8">
-              <p>Universitas Indraprasta PGRI (2021-now)<br>Informatics Engineering; Cumulative GPA 3,63/4.0</p>
+              <strong>Universitas Indraprasta PGRI (2021-now)</strong>
+              <p>Informatics Engineering; Cumulative GPA 3,63/4.0</p>
+              <strong>Vocational High School 3 Depok(2015-2018)</strong>
+              <p>Computer and Network Engineering</p>
             </div>
           </div>
       </div>
-
-    <section id="contact" class="contact mb-5">
-        <div class="container">
-            <div class="row mb-4 pt-4">
-                <div class="col text-center">
-                    <h2>Contact Us</h2>
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-4">
-                    <div class="card text-white bg-primary mb-3">
-                        
-                        <div class="card-body">
-                          <h5 class="card-title">Contact Us</h5>
-                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        </div>
-                      </div>
-                      <ul class="list-group">
-                        <li class="list-group-item"><h1>Location</h1></li>
-                        <li class="list-group-item">My Home</li>
-                        <li class="list-group-item">Jl. Pesantren</li>
-                        <li class="list-group-item">Depok, West Java</li>
-                        <li class="list-group-item">Indonesia</li>
-                      </ul>
-                </div>
-
-                <div class="col-lg-6">
-                    <form>
-                        <div class="form-group">
-                          <label for="nama">Name</label>
-                          <input type="text" class="form-control" id="nama" >
-                        </div>
-
-                        <div class="form-group">
-                            <label for="email">Email</label>
-                            <input type="text" class="form-control" id="email" >
-                        </div>
-
-                        <div class="form-group">
-                            <label for="telp">Phone</label>
-                            <input type="text" class="form-control" id="telp" >
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="pesan">Message</label>
-                            <textarea name="pesan" class="form-control" id="pesan" ></textarea>
-                        </div>
-
-                        <div class="form-group">
-                            <button type="button"class="btn btn-primary">Send</button>
-                        </div>
-                        
-                      </form>
-                </div>
-            </div>
-        </div>
-    </section>
-<!-- </div> -->

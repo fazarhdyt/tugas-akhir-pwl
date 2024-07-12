@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+        crossorigin="anonymous" />
     <!-- My CSS -->
     <link rel="stylesheet" href="<?= BASEURL; ?>/css/style.css">
 </head>
@@ -24,6 +28,7 @@
       <a class="nav-link active" href="<?= BASEURL; ?>">Home <span class="sr-only">(current)</span></a>
       <a class="nav-link" href="<?= BASEURL; ?>/about">About</a>
       <a class="nav-link" href="<?= BASEURL; ?>/portofolio">Portofolio</a>
+      <a class="nav-link" href="<?= BASEURL; ?>/contact">Contact</a>
       <a class="nav-link" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
       <!-- <a class="nav-link disabled">Disabled</a> -->
     </div>
